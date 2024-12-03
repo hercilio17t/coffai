@@ -1,2 +1,2 @@
 # CoffAI
-O CoffAI é uma cafeteria online que oferece uma experiência interativa e personalizada para os amantes de café. 
+O CoffAI é uma cafeteria online que oferece uma experiência interativa e personalizada para os amantes de café. Além de um catálogo completo de bebidas e acompanhamentos, o sistema conta com uma inteligência artificial para recomendar produtos com base no histórico de compras e nas preferências dos usuários, criando uma jornada única e intuitiva. O objetivo é tornar a experiência de compra online tão aconchegante quanto tomar um café no local.
